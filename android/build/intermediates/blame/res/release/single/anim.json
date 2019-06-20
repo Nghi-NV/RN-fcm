@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/c0580a306a3fe03f2255dba8ec141419/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/c0580a306a3fe03f2255dba8ec141419/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/c0580a306a3fe03f2255dba8ec141419/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/c0580a306a3fe03f2255dba8ec141419/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/c0580a306a3fe03f2255dba8ec141419/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/c0580a306a3fe03f2255dba8ec141419/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/anim/abc_slide_out_bottom.xml"
+    }
+]

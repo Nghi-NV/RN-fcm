@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/res/merged/release/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/nagavikaspulluri/Desktop/Projects/smart-home-app-hogar/LumiLife/node_modules/react-native-fcm/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/nagavikaspulluri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd0e89bad96321b4c5f36c9327641602/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
